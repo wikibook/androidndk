@@ -1,4 +1,5 @@
 # 「AndroidNDK ネイティブプログラミング」サンプルコード集
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/wikibook/androidndk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ここにあるのは、「AndroidNDKネイティブプログラミング」に掲載されたコード、もしくはその検証用に作成されたコードです。
 
